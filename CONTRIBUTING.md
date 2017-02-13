@@ -1,4 +1,4 @@
-++Contributing
+##Contributing
 
 The tool is not feature complete, it has the minimal set of features that were required for our organization. 
 
